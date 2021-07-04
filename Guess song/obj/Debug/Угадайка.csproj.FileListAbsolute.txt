@@ -1,0 +1,40 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Угадайка.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Угадайка.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Угадайка.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.fMain.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.fParam.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.fGame.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\obj\Debug\Угадайка.fMessage.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Resources\1.wav
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Resources\2.wav
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Угадайка\Угадайка\bin\Debug\Resources\Stop.wav
+E:\Угадайка\Угадайка\bin\Debug\Resources\1.wav
+E:\Угадайка\Угадайка\bin\Debug\Resources\2.wav
+E:\Угадайка\Угадайка\bin\Debug\Resources\Stop.wav
+E:\Угадайка\Угадайка\bin\Debug\Угадайка.exe.config
+E:\Угадайка\Угадайка\bin\Debug\Угадайка.exe
+E:\Угадайка\Угадайка\bin\Debug\Угадайка.pdb
+E:\Угадайка\Угадайка\bin\Debug\Interop.WMPLib.dll
+E:\Угадайка\Угадайка\bin\Debug\AxInterop.WMPLib.dll
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.csprojResolveAssemblyReference.cache
+E:\Угадайка\Угадайка\obj\Debug\Interop.WMPLib.dll
+E:\Угадайка\Угадайка\obj\Debug\AxInterop.WMPLib.dll
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.csproj.ResolveComReference.cache
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.fGame.resources
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.fMessage.resources
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.fMain.resources
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.fParam.resources
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.Properties.Resources.resources
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.csproj.GenerateResource.Cache
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.exe
+E:\Угадайка\Угадайка\obj\Debug\Угадайка.pdb
